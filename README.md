@@ -1,5 +1,7 @@
 # untitled7
 
+名字需要以.spec后缀
+
 ## Project setup
 ```
 npm install
